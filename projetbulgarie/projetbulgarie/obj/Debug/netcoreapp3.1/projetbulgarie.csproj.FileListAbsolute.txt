@@ -1,0 +1,12 @@
+/Users/guesdonhippolyte/Projects/projetbulgarie/projetbulgarie/obj/Debug/netcoreapp3.1/projetbulgarie.csprojAssemblyReference.cache
+/Users/guesdonhippolyte/Projects/projetbulgarie/projetbulgarie/obj/Debug/netcoreapp3.1/projetbulgarie.AssemblyInfoInputs.cache
+/Users/guesdonhippolyte/Projects/projetbulgarie/projetbulgarie/obj/Debug/netcoreapp3.1/projetbulgarie.AssemblyInfo.cs
+/Users/guesdonhippolyte/Projects/projetbulgarie/projetbulgarie/obj/Debug/netcoreapp3.1/projetbulgarie.csproj.CoreCompileInputs.cache
+/Users/guesdonhippolyte/Projects/projetbulgarie/projetbulgarie/bin/Debug/netcoreapp3.1/projetbulgarie.deps.json
+/Users/guesdonhippolyte/Projects/projetbulgarie/projetbulgarie/bin/Debug/netcoreapp3.1/projetbulgarie.runtimeconfig.json
+/Users/guesdonhippolyte/Projects/projetbulgarie/projetbulgarie/bin/Debug/netcoreapp3.1/projetbulgarie.runtimeconfig.dev.json
+/Users/guesdonhippolyte/Projects/projetbulgarie/projetbulgarie/bin/Debug/netcoreapp3.1/projetbulgarie.dll
+/Users/guesdonhippolyte/Projects/projetbulgarie/projetbulgarie/bin/Debug/netcoreapp3.1/projetbulgarie.pdb
+/Users/guesdonhippolyte/Projects/projetbulgarie/projetbulgarie/obj/Debug/netcoreapp3.1/projetbulgarie.dll
+/Users/guesdonhippolyte/Projects/projetbulgarie/projetbulgarie/obj/Debug/netcoreapp3.1/projetbulgarie.pdb
+/Users/guesdonhippolyte/Projects/projetbulgarie/projetbulgarie/obj/Debug/netcoreapp3.1/projetbulgarie.genruntimeconfig.cache
